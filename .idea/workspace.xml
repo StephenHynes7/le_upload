@@ -20,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="leupload.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leupload.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leupload.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
@@ -32,21 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="token-log.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/token-log.log">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+            <state relative-caret-position="225">
+              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -67,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/test.txt" />
         <option value="$PROJECT_DIR$/src/requirements.pip" />
         <option value="$PROJECT_DIR$/src/leupload.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -422,6 +413,14 @@
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
